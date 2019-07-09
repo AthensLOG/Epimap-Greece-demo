@@ -1,0 +1,51 @@
+.sectorlist{
+  margin-top: 20px;
+  display: inline-block;
+}
+.sectorlist .dropdown-toggle {
+  border: 1px solid #eee;
+}
+
+.text-sectorlist{
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: end;
+  color: black;
+}
+
+.chartDiv{
+  height: 32vh;
+}
+
+.legend{
+  height: 1.5vh;
+}
+
+.table-title{
+  margin-bottom: 5px;
+  margin-top: 10px;
+  color: #C82333;
+}
+
+.tables{
+  margin-top: 40px;
+}
+
+.table-container{
+  overflow-y: scroll;
+  max-height: calc(70vh - 250px);
+}
+
+.charts{
+  height: 30vh;
+}
+
+.page-item.active .page-link{
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.page-link {
+  color: #CF2825;
+}
