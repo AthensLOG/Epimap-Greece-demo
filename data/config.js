@@ -19,7 +19,7 @@ const config = {
   letalite: "TRUE",
   meningite: "FALSE",
   mois: "TRUE",
-  nom: "Origins of Patients in MSF Health Facility in Athens",
+  nom: "Origins of Patients in MSF Day Care Center in Athens",
   paludisme: "TRUE",
   pays: "TRUE",
   region: "TRUE",
