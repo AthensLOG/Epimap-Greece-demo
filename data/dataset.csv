@@ -574,7 +574,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 54-2019-9,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2019,9,206
 54-2019-10,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2019,10,171
 54-2019-11,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2019,11,156
-54-2019-12,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2019,12,0
+54-2019-12,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2019,12,154
 43-2019-1,GRC,89,Greece,2,Athos,3,Athos,43,Athos,2019,1,0
 43-2019-2,GRC,89,Greece,2,Athos,3,Athos,43,Athos,2019,2,0
 43-2019-3,GRC,89,Greece,2,Athos,3,Athos,43,Athos,2019,3,0
@@ -622,7 +622,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 55-2019-9,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2019,9,5
 55-2019-10,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2019,10,4
 55-2019-11,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2019,11,2
-55-2019-12,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2019,12,0
+55-2019-12,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2019,12,3
 56-2019-1,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,1,0
 56-2019-2,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,2,0
 56-2019-3,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,3,0
@@ -634,7 +634,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 56-2019-9,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,9,0
 56-2019-10,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,10,0
 56-2019-11,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,11,0
-56-2019-12,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,12,0
+56-2019-12,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2019,12,1
 279-2019-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,1,4
 279-2019-2,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,2,4
 279-2019-3,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,3,8
@@ -646,7 +646,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 279-2019-9,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,9,3
 279-2019-10,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,10,0
 279-2019-11,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,11,3
-279-2019-12,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,12,0
+279-2019-12,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2019,12,1
 16-2019-1,GRC,89,Greece,1,Aegean,2,South Aegean,16,Chalki,2019,1,0
 16-2019-2,GRC,89,Greece,1,Aegean,2,South Aegean,16,Chalki,2019,2,0
 16-2019-3,GRC,89,Greece,1,Aegean,2,South Aegean,16,Chalki,2019,3,0
@@ -754,7 +754,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 58-2019-9,GRC,89,Greece,3,Attica,4,Attica,58,Dafni-Ymittos,2019,9,0
 58-2019-10,GRC,89,Greece,3,Attica,4,Attica,58,Dafni-Ymittos,2019,10,1
 58-2019-11,GRC,89,Greece,3,Attica,4,Attica,58,Dafni-Ymittos,2019,11,1
-58-2019-12,GRC,89,Greece,3,Attica,4,Attica,58,Dafni-Ymittos,2019,12,0
+58-2019-12,GRC,89,Greece,3,Attica,4,Attica,58,Dafni-Ymittos,2019,12,2
 280-2019-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,280,Delphi,2019,1,0
 280-2019-2,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,280,Delphi,2019,2,0
 280-2019-3,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,280,Delphi,2019,3,0
@@ -1198,7 +1198,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 65-2019-9,GRC,89,Greece,3,Attica,4,Attica,65,Galatsi,2019,9,0
 65-2019-10,GRC,89,Greece,3,Attica,4,Attica,65,Galatsi,2019,10,0
 65-2019-11,GRC,89,Greece,3,Attica,4,Attica,65,Galatsi,2019,11,1
-65-2019-12,GRC,89,Greece,3,Attica,4,Attica,65,Galatsi,2019,12,0
+65-2019-12,GRC,89,Greece,3,Attica,4,Attica,65,Galatsi,2019,12,2
 119-2019-1,GRC,89,Greece,4,Crete,5,Crete,119,Gavdos,2019,1,0
 119-2019-2,GRC,89,Greece,4,Crete,5,Crete,119,Gavdos,2019,2,0
 119-2019-3,GRC,89,Greece,4,Crete,5,Crete,119,Gavdos,2019,3,0
@@ -1522,7 +1522,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 72-2019-9,GRC,89,Greece,3,Attica,4,Attica,72,Kallithea,2019,9,3
 72-2019-10,GRC,89,Greece,3,Attica,4,Attica,72,Kallithea,2019,10,0
 72-2019-11,GRC,89,Greece,3,Attica,4,Attica,72,Kallithea,2019,11,1
-72-2019-12,GRC,89,Greece,3,Attica,4,Attica,72,Kallithea,2019,12,0
+72-2019-12,GRC,89,Greece,3,Attica,4,Attica,72,Kallithea,2019,12,2
 19-2019-1,GRC,89,Greece,1,Aegean,2,South Aegean,19,Kalymnos,2019,1,0
 19-2019-2,GRC,89,Greece,1,Aegean,2,South Aegean,19,Kalymnos,2019,2,0
 19-2019-3,GRC,89,Greece,1,Aegean,2,South Aegean,19,Kalymnos,2019,3,0
@@ -1666,7 +1666,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 210-2019-9,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,210,Kavala,2019,9,0
 210-2019-10,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,210,Kavala,2019,10,0
 210-2019-11,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,210,Kavala,2019,11,0
-210-2019-12,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,210,Kavala,2019,12,0
+210-2019-12,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,210,Kavala,2019,12,1
 22-2019-1,GRC,89,Greece,1,Aegean,2,South Aegean,22,Kea,2019,1,0
 22-2019-2,GRC,89,Greece,1,Aegean,2,South Aegean,22,Kea,2019,2,0
 22-2019-3,GRC,89,Greece,1,Aegean,2,South Aegean,22,Kea,2019,3,0
@@ -1906,7 +1906,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 312-2019-9,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2019,9,0
 312-2019-10,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2019,10,0
 312-2019-11,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2019,11,0
-312-2019-12,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2019,12,0
+312-2019-12,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2019,12,1
 77-2019-1,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,1,2
 77-2019-2,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,2,3
 77-2019-3,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,3,2
@@ -1918,7 +1918,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 77-2019-9,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,9,1
 77-2019-10,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,10,0
 77-2019-11,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,11,3
-77-2019-12,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,12,0
+77-2019-12,GRC,89,Greece,3,Attica,4,Attica,77,Lavreotiki,2019,12,1
 227-2019-1,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,227,Lefkada,2019,1,0
 227-2019-2,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,227,Lefkada,2019,2,0
 227-2019-3,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,227,Lefkada,2019,3,0
@@ -2086,7 +2086,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 80-2019-9,GRC,89,Greece,3,Attica,4,Attica,80,Marathon,2019,9,2
 80-2019-10,GRC,89,Greece,3,Attica,4,Attica,80,Marathon,2019,10,1
 80-2019-11,GRC,89,Greece,3,Attica,4,Attica,80,Marathon,2019,11,1
-80-2019-12,GRC,89,Greece,3,Attica,4,Attica,80,Marathon,2019,12,0
+80-2019-12,GRC,89,Greece,3,Attica,4,Attica,80,Marathon,2019,12,2
 81-2019-1,GRC,89,Greece,3,Attica,4,Attica,81,Markopoulo Mesogaias,2019,1,0
 81-2019-2,GRC,89,Greece,3,Attica,4,Attica,81,Markopoulo Mesogaias,2019,2,0
 81-2019-3,GRC,89,Greece,3,Attica,4,Attica,81,Markopoulo Mesogaias,2019,3,0
@@ -2398,7 +2398,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 87-2019-9,GRC,89,Greece,3,Attica,4,Attica,87,Nea Smyrni,2019,9,0
 87-2019-10,GRC,89,Greece,3,Attica,4,Attica,87,Nea Smyrni,2019,10,0
 87-2019-11,GRC,89,Greece,3,Attica,4,Attica,87,Nea Smyrni,2019,11,0
-87-2019-12,GRC,89,Greece,3,Attica,4,Attica,87,Nea Smyrni,2019,12,0
+87-2019-12,GRC,89,Greece,3,Attica,4,Attica,87,Nea Smyrni,2019,12,1
 183-2019-1,GRC,89,Greece,6,Macedonia and Thrace,8,Central Macedonia,183,Nea Zichni,2019,1,0
 183-2019-2,GRC,89,Greece,6,Macedonia and Thrace,8,Central Macedonia,183,Nea Zichni,2019,2,0
 183-2019-3,GRC,89,Greece,6,Macedonia and Thrace,8,Central Macedonia,183,Nea Zichni,2019,3,0
@@ -2626,7 +2626,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 89-2019-9,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2019,9,9
 89-2019-10,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2019,10,8
 89-2019-11,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2019,11,10
-89-2019-12,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2019,12,0
+89-2019-12,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2019,12,8
 90-2019-1,GRC,89,Greece,3,Attica,4,Attica,90,Paiania,2019,1,0
 90-2019-2,GRC,89,Greece,3,Attica,4,Attica,90,Paiania,2019,2,0
 90-2019-3,GRC,89,Greece,3,Attica,4,Attica,90,Paiania,2019,3,2
@@ -2830,7 +2830,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 95-2019-9,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2019,9,9
 95-2019-10,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2019,10,18
 95-2019-11,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2019,11,19
-95-2019-12,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2019,12,0
+95-2019-12,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2019,12,7
 96-2019-1,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2019,1,1
 96-2019-2,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2019,2,0
 96-2019-3,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2019,3,2
@@ -2878,7 +2878,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 98-2019-9,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2019,9,4
 98-2019-10,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2019,10,5
 98-2019-11,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2019,11,3
-98-2019-12,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2019,12,0
+98-2019-12,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2019,12,5
 129-2019-1,GRC,89,Greece,4,Crete,5,Crete,129,Platanias,2019,1,0
 129-2019-2,GRC,89,Greece,4,Crete,5,Crete,129,Platanias,2019,2,0
 129-2019-3,GRC,89,Greece,4,Crete,5,Crete,129,Platanias,2019,3,0
@@ -3454,7 +3454,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 299-2019-9,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2019,9,3
 299-2019-10,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2019,10,5
 299-2019-11,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2019,11,7
-299-2019-12,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2019,12,0
+299-2019-12,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2019,12,1
 321-2019-1,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,321,Tempi,2019,1,0
 321-2019-2,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,321,Tempi,2019,2,0
 321-2019-3,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,321,Tempi,2019,3,0
@@ -3754,7 +3754,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 108-2019-9,GRC,89,Greece,3,Attica,4,Attica,108,Vyronas,2019,9,1
 108-2019-10,GRC,89,Greece,3,Attica,4,Attica,108,Vyronas,2019,10,1
 108-2019-11,GRC,89,Greece,3,Attica,4,Attica,108,Vyronas,2019,11,0
-108-2019-12,GRC,89,Greece,3,Attica,4,Attica,108,Vyronas,2019,12,0
+108-2019-12,GRC,89,Greece,3,Attica,4,Attica,108,Vyronas,2019,12,2
 273-2019-1,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,273,West Achaea,2019,1,0
 273-2019-2,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,273,West Achaea,2019,2,0
 273-2019-3,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,273,West Achaea,2019,3,0
@@ -3898,7 +3898,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 109-2019-9,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2019,9,0
 109-2019-10,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2019,10,0
 109-2019-11,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2019,11,1
-109-2019-12,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2019,12,0
+109-2019-12,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2019,12,1
 202-2020-1,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,202,Abdera,2020,1,0
 202-2020-2,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,202,Abdera,2020,2,0
 202-2020-3,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,202,Abdera,2020,3,0
@@ -4463,7 +4463,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 15-2020-10,GRC,89,Greece,1,Aegean,2,South Aegean,15,Astypalaia,2020,10,0
 15-2020-11,GRC,89,Greece,1,Aegean,2,South Aegean,15,Astypalaia,2020,11,0
 15-2020-12,GRC,89,Greece,1,Aegean,2,South Aegean,15,Astypalaia,2020,12,0
-54-2020-1,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2020,1,0
+54-2020-1,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2020,1,1
 54-2020-2,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2020,2,0
 54-2020-3,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2020,3,0
 54-2020-4,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2020,4,0
