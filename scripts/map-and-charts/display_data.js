@@ -1,4 +1,5 @@
 const analyser = {
+  dataTable: null,
   time_mode: 2,
   time_range: [],
   start_time: {},
@@ -159,6 +160,9 @@ const analyser = {
   },
   selectChartsData(){
     // Build Table with mapDataSet
+    if (analyser.dataTable != null) {
+  		analyser.dataTable.destroy()
+  	}
     $("#table-body").html('')
     if (this.mapDataSet.length > 0) {
       for (i of this.mapDataSet) {
@@ -168,7 +172,7 @@ const analyser = {
         </tr>`
         $("#table-body").append(chain)
       }
-      $('#table-data').DataTable();
+      analyser.dataTable = $('#table-data').DataTable();
     } else {
       $("#table-body").html('<tr><td colspan=2>No result<td></tr>')
     }
