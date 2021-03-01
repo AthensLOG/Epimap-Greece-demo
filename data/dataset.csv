@@ -7895,7 +7895,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 48-2021-10,GRC,89,Greece,3,Attica,4,Attica,48,Agioi Anargyroi-Kamatero,2021,10,0
 48-2021-11,GRC,89,Greece,3,Attica,4,Attica,48,Agioi Anargyroi-Kamatero,2021,11,0
 48-2021-12,GRC,89,Greece,3,Attica,4,Attica,48,Agioi Anargyroi-Kamatero,2021,12,0
-49-2021-1,GRC,89,Greece,3,Attica,4,Attica,49,Agios Dimitrios,2021,1,0
+49-2021-1,GRC,89,Greece,3,Attica,4,Attica,49,Agios Dimitrios,2021,1,1
 49-2021-2,GRC,89,Greece,3,Attica,4,Attica,49,Agios Dimitrios,2021,2,0
 49-2021-3,GRC,89,Greece,3,Attica,4,Attica,49,Agios Dimitrios,2021,3,0
 49-2021-4,GRC,89,Greece,3,Attica,4,Attica,49,Agios Dimitrios,2021,4,0
@@ -8363,8 +8363,8 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 15-2021-10,GRC,89,Greece,1,Aegean,2,South Aegean,15,Astypalaia,2021,10,0
 15-2021-11,GRC,89,Greece,1,Aegean,2,South Aegean,15,Astypalaia,2021,11,0
 15-2021-12,GRC,89,Greece,1,Aegean,2,South Aegean,15,Astypalaia,2021,12,0
-54-2021-1,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,1,0
-54-2021-2,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,2,0
+54-2021-1,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,1,143
+54-2021-2,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,2,129
 54-2021-3,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,3,0
 54-2021-4,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,4,0
 54-2021-5,GRC,89,Greece,3,Attica,4,Attica,54,Athens,2021,5,0
@@ -8411,8 +8411,8 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 224-2021-10,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,224,Cephalonia,2021,10,0
 224-2021-11,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,224,Cephalonia,2021,11,0
 224-2021-12,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,224,Cephalonia,2021,12,0
-55-2021-1,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,1,0
-55-2021-2,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,2,0
+55-2021-1,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,1,6
+55-2021-2,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,2,6
 55-2021-3,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,3,0
 55-2021-4,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,4,0
 55-2021-5,GRC,89,Greece,3,Attica,4,Attica,55,Chaidari,2021,5,0
@@ -8435,7 +8435,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 56-2021-10,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2021,10,0
 56-2021-11,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2021,11,0
 56-2021-12,GRC,89,Greece,3,Attica,4,Attica,56,Chalandri,2021,12,0
-279-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2021,1,0
+279-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2021,1,3
 279-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2021,2,0
 279-2021-3,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2021,3,0
 279-2021-4,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,279,Chalcis,2021,4,0
@@ -8519,7 +8519,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 225-2021-10,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,225,Corfu,2021,10,0
 225-2021-11,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,225,Corfu,2021,11,0
 225-2021-12,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,10,Ionian Islands,225,Corfu,2021,12,0
-232-2021-1,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,232,Corinth,2021,1,0
+232-2021-1,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,232,Corinth,2021,1,1
 232-2021-2,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,232,Corinth,2021,2,0
 232-2021-3,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,232,Corinth,2021,3,0
 232-2021-4,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,232,Corinth,2021,4,0
@@ -8759,7 +8759,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 305-2021-10,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,305,Elassona,2021,10,0
 305-2021-11,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,305,Elassona,2021,11,0
 305-2021-12,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,305,Elassona,2021,12,0
-60-2021-1,GRC,89,Greece,3,Attica,4,Attica,60,Elefsina,2021,1,0
+60-2021-1,GRC,89,Greece,3,Attica,4,Attica,60,Elefsina,2021,1,2
 60-2021-2,GRC,89,Greece,3,Attica,4,Attica,60,Elefsina,2021,2,0
 60-2021-3,GRC,89,Greece,3,Attica,4,Attica,60,Elefsina,2021,3,0
 60-2021-4,GRC,89,Greece,3,Attica,4,Attica,60,Elefsina,2021,4,0
@@ -9348,7 +9348,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 123-2021-11,GRC,89,Greece,4,Crete,5,Crete,123,Kantanos-Selino,2021,11,0
 123-2021-12,GRC,89,Greece,4,Crete,5,Crete,123,Kantanos-Selino,2021,12,0
 309-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,309,Karditsa,2021,1,0
-309-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,309,Karditsa,2021,2,0
+309-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,309,Karditsa,2021,2,1
 309-2021-3,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,309,Karditsa,2021,3,0
 309-2021-4,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,309,Karditsa,2021,4,0
 309-2021-5,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,309,Karditsa,2021,5,0
@@ -9695,7 +9695,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 180-2021-10,GRC,89,Greece,6,Macedonia and Thrace,8,Central Macedonia,180,Langadas,2021,10,0
 180-2021-11,GRC,89,Greece,6,Macedonia and Thrace,8,Central Macedonia,180,Langadas,2021,11,0
 180-2021-12,GRC,89,Greece,6,Macedonia and Thrace,8,Central Macedonia,180,Langadas,2021,12,0
-312-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2021,1,0
+312-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2021,1,1
 312-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2021,2,0
 312-2021-3,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2021,3,0
 312-2021-4,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,312,Larissa,2021,4,0
@@ -9972,7 +9972,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 242-2021-11,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,242,Messini,2021,11,0
 242-2021-12,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,242,Messini,2021,12,0
 84-2021-1,GRC,89,Greece,3,Attica,4,Attica,84,Metamorfosi,2021,1,0
-84-2021-2,GRC,89,Greece,3,Attica,4,Attica,84,Metamorfosi,2021,2,0
+84-2021-2,GRC,89,Greece,3,Attica,4,Attica,84,Metamorfosi,2021,2,1
 84-2021-3,GRC,89,Greece,3,Attica,4,Attica,84,Metamorfosi,2021,3,0
 84-2021-4,GRC,89,Greece,3,Attica,4,Attica,84,Metamorfosi,2021,4,0
 84-2021-5,GRC,89,Greece,3,Attica,4,Attica,84,Metamorfosi,2021,5,0
@@ -10056,7 +10056,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 243-2021-11,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,243,Monemvasia,2021,11,0
 243-2021-12,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,11,Peloponnese,243,Monemvasia,2021,12,0
 85-2021-1,GRC,89,Greece,3,Attica,4,Attica,85,Moschato-Tavros,2021,1,0
-85-2021-2,GRC,89,Greece,3,Attica,4,Attica,85,Moschato-Tavros,2021,2,0
+85-2021-2,GRC,89,Greece,3,Attica,4,Attica,85,Moschato-Tavros,2021,2,1
 85-2021-3,GRC,89,Greece,3,Attica,4,Attica,85,Moschato-Tavros,2021,3,0
 85-2021-4,GRC,89,Greece,3,Attica,4,Attica,85,Moschato-Tavros,2021,4,0
 85-2021-5,GRC,89,Greece,3,Attica,4,Attica,85,Moschato-Tavros,2021,5,0
@@ -10415,8 +10415,8 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 128-2021-10,GRC,89,Greece,4,Crete,5,Crete,128,Oropedio Lasithiou,2021,10,0
 128-2021-11,GRC,89,Greece,4,Crete,5,Crete,128,Oropedio Lasithiou,2021,11,0
 128-2021-12,GRC,89,Greece,4,Crete,5,Crete,128,Oropedio Lasithiou,2021,12,0
-89-2021-1,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,1,0
-89-2021-2,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,2,0
+89-2021-1,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,1,6
+89-2021-2,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,2,5
 89-2021-3,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,3,0
 89-2021-4,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,4,0
 89-2021-5,GRC,89,Greece,3,Attica,4,Attica,89,Oropos,2021,5,0
@@ -10619,7 +10619,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 94-2021-10,GRC,89,Greece,3,Attica,4,Attica,94,Penteli,2021,10,0
 94-2021-11,GRC,89,Greece,3,Attica,4,Attica,94,Penteli,2021,11,0
 94-2021-12,GRC,89,Greece,3,Attica,4,Attica,94,Penteli,2021,12,0
-95-2021-1,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,1,0
+95-2021-1,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,1,2
 95-2021-2,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,2,0
 95-2021-3,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,3,0
 95-2021-4,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,4,0
@@ -10631,7 +10631,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 95-2021-10,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,10,0
 95-2021-11,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,11,0
 95-2021-12,GRC,89,Greece,3,Attica,4,Attica,95,Perama,2021,12,0
-96-2021-1,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2021,1,0
+96-2021-1,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2021,1,1
 96-2021-2,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2021,2,0
 96-2021-3,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2021,3,0
 96-2021-4,GRC,89,Greece,3,Attica,4,Attica,96,Peristeri,2021,4,0
@@ -10667,8 +10667,8 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 270-2021-10,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,270,Pineios,2021,10,0
 270-2021-11,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,270,Pineios,2021,11,0
 270-2021-12,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,270,Pineios,2021,12,0
-98-2021-1,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,1,0
-98-2021-2,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,2,0
+98-2021-1,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,1,4
+98-2021-2,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,2,1
 98-2021-3,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,3,0
 98-2021-4,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,4,0
 98-2021-5,GRC,89,Greece,3,Attica,4,Attica,98,Piraeus,2021,5,0
@@ -10836,7 +10836,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 271-2021-11,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,271,Pyrgos,2021,11,0
 271-2021-12,GRC,89,Greece,7,Peloponnese - Western Greece - Ionian Islands,12,West Greece,271,Pyrgos,2021,12,0
 100-2021-1,GRC,89,Greece,3,Attica,4,Attica,100,Rafina-Pikermi,2021,1,0
-100-2021-2,GRC,89,Greece,3,Attica,4,Attica,100,Rafina-Pikermi,2021,2,0
+100-2021-2,GRC,89,Greece,3,Attica,4,Attica,100,Rafina-Pikermi,2021,2,1
 100-2021-3,GRC,89,Greece,3,Attica,4,Attica,100,Rafina-Pikermi,2021,3,0
 100-2021-4,GRC,89,Greece,3,Attica,4,Attica,100,Rafina-Pikermi,2021,4,0
 100-2021-5,GRC,89,Greece,3,Attica,4,Attica,100,Rafina-Pikermi,2021,5,0
@@ -11243,8 +11243,8 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 40-2021-10,GRC,89,Greece,1,Aegean,2,South Aegean,40,Syros-Ermoupoli,2021,10,0
 40-2021-11,GRC,89,Greece,1,Aegean,2,South Aegean,40,Syros-Ermoupoli,2021,11,0
 40-2021-12,GRC,89,Greece,1,Aegean,2,South Aegean,40,Syros-Ermoupoli,2021,12,0
-299-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,1,0
-299-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,2,0
+299-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,1,5
+299-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,2,2
 299-2021-3,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,3,0
 299-2021-4,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,4,0
 299-2021-5,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,299,Tanagra,2021,5,0
@@ -11279,7 +11279,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 221-2021-10,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,221,Thasos,2021,10,0
 221-2021-11,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,221,Thasos,2021,11,0
 221-2021-12,GRC,89,Greece,6,Macedonia and Thrace,9,East Macedonia and Thrace,221,Thasos,2021,12,0
-300-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,300,Thebes,2021,1,0
+300-2021-1,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,300,Thebes,2021,1,4
 300-2021-2,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,300,Thebes,2021,2,0
 300-2021-3,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,300,Thebes,2021,3,0
 300-2021-4,GRC,89,Greece,8,Thessaly and Central Greece,13,Central Greece,300,Thebes,2021,4,0
@@ -11436,7 +11436,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 323-2021-11,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,323,Tyrnavos,2021,11,0
 323-2021-12,GRC,89,Greece,8,Thessaly and Central Greece,14,Thessaly,323,Tyrnavos,2021,12,0
 106-2021-1,GRC,89,Greece,3,Attica,4,Attica,106,Vari-Voula-Vouliagmeni,2021,1,0
-106-2021-2,GRC,89,Greece,3,Attica,4,Attica,106,Vari-Voula-Vouliagmeni,2021,2,0
+106-2021-2,GRC,89,Greece,3,Attica,4,Attica,106,Vari-Voula-Vouliagmeni,2021,2,1
 106-2021-3,GRC,89,Greece,3,Attica,4,Attica,106,Vari-Voula-Vouliagmeni,2021,3,0
 106-2021-4,GRC,89,Greece,3,Attica,4,Attica,106,Vari-Voula-Vouliagmeni,2021,4,0
 106-2021-5,GRC,89,Greece,3,Attica,4,Attica,106,Vari-Voula-Vouliagmeni,2021,5,0
@@ -11687,7 +11687,7 @@ Link,ISO,adm0_ID,adm0_name,adm1_ID,adm1_name,adm2_ID,adm2_name,adm3_ID,adm3_name
 151-2021-10,GRC,89,Greece,5,Epirus and Western Macedonia,6,Epirus,151,Zitsa,2021,10,0
 151-2021-11,GRC,89,Greece,5,Epirus and Western Macedonia,6,Epirus,151,Zitsa,2021,11,0
 151-2021-12,GRC,89,Greece,5,Epirus and Western Macedonia,6,Epirus,151,Zitsa,2021,12,0
-109-2021-1,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2021,1,0
+109-2021-1,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2021,1,1
 109-2021-2,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2021,2,0
 109-2021-3,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2021,3,0
 109-2021-4,GRC,89,Greece,3,Attica,4,Attica,109,Zografou,2021,4,0
